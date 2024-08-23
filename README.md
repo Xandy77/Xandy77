@@ -59,9 +59,10 @@
 
 
 <div style="display: inline_block" align="center"> <br>
-    
-<a href = "mailto:domirops@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+
+   <div> 
+     <a href = "mailto:domirops@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </div>
 
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Xandy77)](https://github.com/Xandy77)
